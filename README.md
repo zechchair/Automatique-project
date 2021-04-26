@@ -3,18 +3,18 @@
 [:house: Course repository](https://github.com/boisgera/control-engineering-with-python)
 
 ## Team
-zakaria echchair
-loubna essaidi
-oussama ennajar
-https://teams.microsoft.com/l/meetup-join/19:f7f7857795644a9498dcc73500c1bc5f@thread.tacv2/1619435009730?context=%7B%22Tid%22:%2239626157-a047-4689-87a2-6fa645cb5cb7%22,%22Oid%22:%225bb5ba4a-3f78-4997-8113-48d9dbed5e6c%22%7D
 
-🖥 Teams meeting URL: ❔
 
-  - Student 1: ❔
 
-  - Student 2: ❔
 
-  - Student 3: ❔
+
+🖥 Teams meeting URL: https://teams.microsoft.com/l/meetup-join/19:f7f7857795644a9498dcc73500c1bc5f@thread.tacv2/1619438546732?context=%7B%22Tid%22:%2239626157-a047-4689-87a2-6fa645cb5cb7%22,%22Oid%22:%225bb5ba4a-3f78-4997-8113-48d9dbed5e6c%22%7D
+
+  - Student 1: zakaria echchair
+
+  - Student 2: loubna essaidi
+
+  - Student 3: oussama ennajar
 
   - Student 4: ❔
 
