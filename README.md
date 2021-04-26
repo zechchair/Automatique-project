@@ -14,7 +14,7 @@
 
   - Student 2: loubna essaidi
 
-  - Student 3: oussama ennajar
+  - Student 3: oussama ennajjar
 
   - Student 4: ❔
 
